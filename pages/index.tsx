@@ -24,7 +24,6 @@ export default function Home() {
           <Link href='https://www.linkedin.com/in/atakan-eliz-994920247/' className='flex items-center gap-2 hover:opacity-50'>
             <Image src='/linkedin.svg' width={48} height={48} alt="" />
           </Link>
-
         </div>
       </main>
     </>
