@@ -5,7 +5,15 @@ export default function Deneme() {
         <div className='flex flex-col w-full h-full min-h-screen items-center justify-center'>
             <h1 className='text-4xl font-bold'>Deneme</h1>
             <iframe
-                src="https://player.twitch.tv/?channel=purplebixi&parent=atakaneliz.com"
+                src="https://player.twitch.tv/?channel=purplebixi&parent=www.atakaneliz.com"
+                height="720"
+                width="1280"
+                frameBorder="0"
+                scrolling="no"
+                allowFullScreen={true}>
+            </iframe>
+            <iframe
+                src="https://player.twitch.tv/?channel=purplebixi&parent=atakaneliz"
                 height="720"
                 width="1280"
                 frameBorder="0"
